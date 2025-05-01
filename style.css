@@ -1,0 +1,52 @@
+
+
+h1{
+    text-align: center;
+}
+
+
+h3{
+    text-align: center;
+
+}   
+.jogarvideogame{
+    background-image:url(videogame.jpg);
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    display:block
+}
+
+body{
+    background-color: rgba(0, 255, 255, 0.212);
+}
+
+
+.estadosunidos{
+    width: auto;
+    height: 150px;
+
+}
+.Londres{
+    width: 300px;
+    height:auto ;
+}
+
+
+.israel{
+    width: 300px;
+    height:auto;
+}
+
+a{
+
+    color:rgb(5, 5, 5);
+    text-decoration:none;
+    transition: 0,2s;
+}
+
+a:hover {
+color: crimson;
+}
+
+}
